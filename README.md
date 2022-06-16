@@ -12,7 +12,6 @@
     <a href="https://github.com/cjannuzzi/jogos-py/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/cjannuzzi/jogos-py"></a>
     <a href="https://github.com/cjannuzzi/jogos-py/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/cjannuzzi/jogos-py"></a>
     <a href="https://github.com/cjannuzzi/jogos-py/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/cjannuzzi/jogos-py"></a>
-    <a href="https://github.com/cjannuzzi/jogos-py"><img alt="GitHub license" src="https://img.shields.io/github/license/cjannuzzi/jogos-py"></a>
 </div>
 
 <h4 align="center"> 
